@@ -5,4 +5,4 @@ To make it work, copy the code (control c), then go into the URL bar (search bar
 
 then, paste the code (control v), and hit enter, then you get your hacks!
 
-(I also made blooket, gimkit, and prodigy hacks)
+(I also made blooket, gimkit, khan academy, and prodigy hacks)
